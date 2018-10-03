@@ -1,0 +1,61 @@
+body {
+    background: #D6EAF8;
+}
+
+#name {
+    text-align:center;
+    font-family: helvetica;
+    font-size: 20px;
+}
+.image {
+    
+    text-align: center;
+}
+
+#image {
+    
+
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 150px;
+}
+
+
+
+.content {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 75px;
+    
+}
+
+#content2 {
+    
+    text-align: center;
+    
+}
+
+#linkedin {
+    height: 20px;
+    width: 20px;
+    padding: 5px;
+}
+
+#email {
+    
+    height: 20px;
+    width: 17px;
+    padding: 2px;
+    
+}
+
+#email-name {
+    
+font-style: oblique;
+    
+}
+
+.inline-block {
+    display: inline-block;
+}
